@@ -7,7 +7,7 @@ NOTESEXT="md"
 # the prefix you use to separate "Question" notes
 NOTESPRE="??"
 # editor command to use for modifying answers
-EDITOR="subl"
+EDITOR="textedit"
 
 NOTESDIR=`echo $NOTESDIR|sed -e '/\/$/! s/$/\//'`
 
